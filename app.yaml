@@ -1,5 +1,4 @@
 kind: wasmer.io/App.v0
-name: wordpress # this can be overwritten in autobuild with the `--name` flag
 package: .
 capabilities:
   database:
